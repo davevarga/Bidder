@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+
+        <file>qml/ExplorePage.qml</file>
+	<file>qml/WatchlistPage.qml</file>
+	<file>qml/BidsPage.qml</file>
+	<file>qml/OwnGoodsPage.qml</file>
+	<file>qml/AccountPage.qml</file>
+	
+        <file>qml/ControlPanel.qml</file>
+	<file>qml/Form.qml</file>
+        <file>qml/MenuSideBar.qml</file>>
+    </qresource>
+</RCC>
